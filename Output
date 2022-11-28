@@ -1,0 +1,25 @@
+**WELCOME TO BANK OF PSIT**
+_____________________
+
+----------ACCOUNT CREATION----------
+Enter your name: g
+Enter your account number: 5
+Congratulations! Account created successfully......
+
+Enter Pin:4
+Re-Enter Pin:4
+Do you want to do any transaction?(y/n):y
+
+            TRANSACTION 
+        *******
+            Menu:
+            1. Account Detail
+            2. Deposit
+            3. Withdraw
+            4. Transfer Funds
+        *******
+        
+Enter 1, 2, 3, 4 :4
+Amount to be addedL:50
+50
+4950
